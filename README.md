@@ -139,6 +139,7 @@ Skills work across multiple platforms:
 - [unit-test-generator](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/unit-test-generator) - Unit test auto-generator Skill.
 - [api-doc-generator](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/api-doc-generator) - API documentation generator Skill.
 - [debug-helper](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/debug-helper) - Code debugging assistant Skill.
+- [authsome](https://github.com/agentrhq/authsome) - Local credential broker for AI agents. Log in once via OAuth2 or API key, encrypted local vault and a loopback HTTPS proxy inject credentials into outbound provider requests so the agent never sees raw secrets. 45 providers bundled (14 OAuth2, 31 API key) including GitHub, Google, OpenAI, Linear, Slack, Notion, Resend, Stripe. Works across Claude Code, Cursor, GitHub Copilot, Codex, OpenCode, Hermes.
 
 ## Productivity
 
