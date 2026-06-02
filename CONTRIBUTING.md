@@ -37,8 +37,9 @@
 
 #### 按条目类型区分
 
-- [ ] 单个 Skill 仓库：必须包含 `SKILL.md`，并且 GitHub 仓库至少 **20+ Stars**
-- [ ] Skills 合集 / 管理器 / 安装器：必须明确服务于 Skills 的发现、安装、同步、分发或管理；不强制仓库根目录包含 `SKILL.md`，但 GitHub 仓库至少 **20+ Stars**
+- [ ] 社区项目默认需要至少 **64 GitHub Stars**；维护者明确认可的特殊项目可例外
+- [ ] 单个 Skill 仓库：必须包含 `SKILL.md`，并满足社区项目 Stars 门槛
+- [ ] Skills 合集 / 管理器 / 安装器：必须明确服务于 Skills 的发现、安装、同步、分发或管理；不强制仓库根目录包含 `SKILL.md`，但必须满足社区项目 Stars 门槛
 - [ ] 官方资源：可不受 Stars 限制，但必须是官方项目、官方文档或公认的生态基础设施
 
 #### 建议
@@ -109,7 +110,7 @@
 - [ ] 按字母顺序排列
 - [ ] 单个 Skill 仓库包含 SKILL.md
 - [ ] Skills 合集 / 管理器 / 安装器明确服务于 Skills 生态
-- [ ] GitHub 仓库满足最低门槛（社区项目 20+ Stars）
+- [ ] GitHub 仓库满足最低门槛（社区项目 64+ Stars）
 ```
 
 ### 报告问题
@@ -159,8 +160,9 @@ Thanks for your interest in contributing to Awesome Agent Skills!
 
 #### By Entry Type
 
-- [ ] Single Skill repositories: must contain a `SKILL.md` file and have at least **20+ GitHub Stars**
-- [ ] Skills collections / managers / installers: must clearly serve skill discovery, installation, sync, distribution, or management; `SKILL.md` at the repo root is not required, but the repository must have at least **20+ GitHub Stars**
+- [ ] Community submissions should have at least **64 GitHub Stars** by default; maintainers may make explicit exceptions for special cases
+- [ ] Single Skill repositories: must contain a `SKILL.md` file and meet the community stars threshold
+- [ ] Skills collections / managers / installers: must clearly serve skill discovery, installation, sync, distribution, or management; `SKILL.md` at the repo root is not required, but the repository must meet the community stars threshold
 - [ ] Official Resources: may be exempt from the stars threshold, but must be official projects, official docs, or widely recognized ecosystem infrastructure
 
 #### Recommended
@@ -231,7 +233,7 @@ Please include the following information when submitting a PR:
 - [ ] Alphabetically ordered
 - [ ] Single Skill repository contains SKILL.md
 - [ ] Skills collections / managers / installers clearly serve the skills ecosystem
-- [ ] Repository meets the minimum threshold (20+ Stars for community projects)
+- [ ] Repository meets the minimum threshold (64+ Stars for community projects)
 ```
 
 ### Report Issues
