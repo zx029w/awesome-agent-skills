@@ -173,6 +173,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | best-skills | 通用高质量 Skills 合集，涵盖论文写作、开发流程、自媒体创作等 | 264 | [GitHub](https://github.com/xstongxue/best-skills) |
 | skillkit | 跨平台 Skills 管理器，可安装、转换并同步 Skills 到 40+ Agent | 875 | [GitHub](https://github.com/rohitg00/skillkit) |
 | Skywork-Skills | Skywork 官方维护的 agent skills，面向 AI 办公场景，覆盖 PPT、文档、Excel、设计、搜索和音乐工作流 | 48 | [GitHub](https://github.com/SkyworkAI/Skywork-Skills) |
+| unifapi-agent/skills | 基于 UnifAPI MCP 的公共数据与 KOL 定价 Skills | 481 | [GitHub](https://github.com/unifapi-agent/skills) |
 
 ## 开发工具
 
@@ -199,6 +200,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | unit-test-generator | 单元测试自动生成 Skill | All | [示例](examples/unit-test-generator/) |
 | api-doc-generator | API 文档生成 Skill | All | [示例](examples/api-doc-generator/) |
 | debug-helper | 代码调试助手 Skill | All | [示例](examples/debug-helper/) |
+| authsome | AI Agent 本地凭据代理，加密本地保管库与基于代理的凭据注入 | All | [GitHub](https://github.com/agentrhq/authsome) |
 
 ## 效率提升
 
@@ -214,6 +216,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | gingiris-opensource | 面向 GitHub 增长与开源发布策略的营销 Playbook | All | [GitHub](https://github.com/Gingiris/gingiris-opensource) |
 | gingiris-b2b-growth | 覆盖 PLG、SLG 与 GTM 策略的 B2B SaaS 增长 Playbook | All | [GitHub](https://github.com/Gingiris/gingiris-b2b-growth) |
 | gingiris-aso-growth | 面向冷启动、UGC 与分发策略的 ASO 与移动增长 Playbook | All | [GitHub](https://github.com/Gingiris/gingiris-aso-growth) |
+| alpha-insights | 带 Harness 门控的商业研究 Skill，内置咨询框架、证据分级、阶段门控与 HTML 报告 | Claude/Codex | [GitHub](https://github.com/Ericyoung-183/alpha-insights) |
 | salespeak-ai/buyer-eval-skill | 结构化 B2B 软件供应商评估：7 维度评分与证据追踪的评分卡，用于采购与自建/采购决策 | All | [GitHub](https://github.com/salespeak-ai/buyer-eval-skill) |
 | changelog-generator | 从 Git 提交自动生成 Changelog | Claude | [ComposioHQ](https://github.com/ComposioHQ/awesome-claude-skills) |
 
