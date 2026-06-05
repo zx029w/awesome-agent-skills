@@ -146,6 +146,7 @@ Skills work across multiple platforms:
 - [api-doc-generator](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/api-doc-generator) - API documentation generator Skill.
 - [debug-helper](https://github.com/JackyST0/awesome-agent-skills/tree/main/examples/debug-helper) - Code debugging assistant Skill.
 - [authsome](https://github.com/agentrhq/authsome) - Local credential broker for AI agents with encrypted local vault storage and proxy-based credential injection.
+- [Sverklo](https://github.com/sverklo/sverklo) - Local-first repo-memory and code-intelligence MCP for coding agents, with no-write proof receipts, symbol lookup, impact analysis, and diff review.
 
 ## Productivity
 

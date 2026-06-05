@@ -206,6 +206,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 | api-doc-generator | API 文档生成 Skill | All | [示例](examples/api-doc-generator/) |
 | debug-helper | 代码调试助手 Skill | All | [示例](examples/debug-helper/) |
 | authsome | AI Agent 本地凭据代理，加密本地保管库与基于代理的凭据注入 | All | [GitHub](https://github.com/agentrhq/authsome) |
+| Sverklo | 本地优先的仓库记忆与代码智能 MCP，面向 AI 编程 Agent，支持无写入证明回执、符号查找、影响分析与差异审查 | All | [GitHub](https://github.com/sverklo/sverklo) |
 
 ## 效率提升
 
