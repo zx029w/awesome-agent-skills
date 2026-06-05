@@ -20,6 +20,16 @@
     "url": "https://agentskills.io/specification"
   },
   {
+    "name": "agentskills/agentskills",
+    "nameZh": "agentskills/agentskills",
+    "desc": "Agent Skills 官方规范与文档仓库",
+    "descEn": "Official Agent Skills specification and documentation repository",
+    "stars": "19.9k",
+    "platform": "all",
+    "category": "official",
+    "url": "https://github.com/agentskills/agentskills"
+  },
+  {
     "name": "anthropics/skills",
     "nameZh": "anthropics/skills",
     "desc": "Anthropic 官方 Agent Skills 仓库",
@@ -50,6 +60,26 @@
     "url": "https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/add-skills"
   },
   {
+    "name": "GitHub CLI: gh skill",
+    "nameZh": "GitHub CLI: gh skill",
+    "desc": "GitHub CLI 官方 Skills 命令，用于发现、安装、更新和发布 Agent Skills",
+    "descEn": "Official GitHub CLI commands for discovering, installing, updating, and publishing Agent Skills",
+    "stars": "-",
+    "platform": "all",
+    "category": "official",
+    "url": "https://cli.github.com/manual/gh_skill"
+  },
+  {
+    "name": "VS Code Docs: Use Agent Skills in VS Code",
+    "nameZh": "VS Code Docs: Use Agent Skills in VS Code",
+    "desc": "VS Code 官方 Agent Skills 使用指南，面向 GitHub Copilot in VS Code",
+    "descEn": "Official VS Code guide for using Agent Skills with GitHub Copilot",
+    "stars": "-",
+    "platform": "copilot",
+    "category": "official",
+    "url": "https://code.visualstudio.com/docs/copilot/customization/agent-skills"
+  },
+  {
     "name": "vercel-labs/skills",
     "nameZh": "vercel-labs/skills",
     "desc": "Vercel 官方 Skills CLI 工具（npx skills add）",
@@ -78,6 +108,16 @@
     "platform": "all",
     "category": "official",
     "url": "https://github.com/microsoft/azure-skills"
+  },
+  {
+    "name": "OpenAI Codex: Agent Skills",
+    "nameZh": "OpenAI Codex: Agent Skills",
+    "desc": "OpenAI 官方 Codex Agent Skills 使用指南，覆盖 CLI、IDE 扩展和 Codex app",
+    "descEn": "OpenAI official guide for using Agent Skills in Codex CLI, IDE extension, and Codex app",
+    "stars": "-",
+    "platform": "codex",
+    "category": "official",
+    "url": "https://developers.openai.com/codex/skills"
   },
   {
     "name": "GitHub Awesome Copilot",
@@ -148,6 +188,16 @@
     "platform": "claude",
     "category": "collection",
     "url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "heilcheng/awesome-agent-skills",
+    "nameZh": "heilcheng/awesome-agent-skills",
+    "desc": "社区维护的 Agent Skills 导航，聚焦工程团队实际使用的真实 Skills",
+    "descEn": "Community-curated Agent Skills directory focused on real-world skills used by engineering teams",
+    "stars": "5.3k",
+    "platform": "all",
+    "category": "collection",
+    "url": "https://github.com/heilcheng/awesome-agent-skills"
   },
   {
     "name": "kasetto",

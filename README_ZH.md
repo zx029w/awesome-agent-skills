@@ -142,12 +142,16 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 |------|------|-------|------|
 | Agent Skills 开放标准 | Agent Skills 官方规范文档 | - | [skill.md](https://skill.md/) |
 | Agent Skills 规范 | SKILL.md 格式规范 | - | [agentskills.io](https://agentskills.io/specification) |
+| agentskills/agentskills | ⭐ Agent Skills 官方规范与文档仓库 | 19.9k | [GitHub](https://github.com/agentskills/agentskills) |
 | anthropics/skills | ⭐ Anthropic 官方 Agent Skills 仓库 | 144.7k | [GitHub](https://github.com/anthropics/skills) |
 | GitHub Docs: About agent skills | GitHub 官方 agent skills 概览，涵盖支持的宿主环境与 `gh skill` | - | [GitHub Docs](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills) |
 | GitHub Docs: Adding agent skills for GitHub Copilot | GitHub 官方创建、安装与发布 agent skills 指南 | - | [GitHub Docs](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/add-skills) |
+| GitHub CLI: gh skill | GitHub CLI 官方 Skills 命令，用于发现、安装、更新和发布 Agent Skills | - | [GitHub CLI](https://cli.github.com/manual/gh_skill) |
+| VS Code Docs: Use Agent Skills in VS Code | VS Code 官方 Agent Skills 使用指南，面向 GitHub Copilot in VS Code | - | [VS Code Docs](https://code.visualstudio.com/docs/copilot/customization/agent-skills) |
 | vercel-labs/skills | ⭐ Vercel 官方 Skills CLI 工具（`npx skills add`） | 5.4k | [GitHub](https://github.com/vercel-labs/add-skill) |
 | microsoft/skills | ⭐ 微软官方 131 个 Azure SDK Skills | 1.2k | [GitHub](https://github.com/microsoft/agent-skills) |
 | microsoft/azure-skills | ⭐ 微软官方 Azure Skills 插件，内置 MCP 配置与 20 个 Azure 技能 | 670 | [GitHub](https://github.com/microsoft/azure-skills) |
+| OpenAI Codex: Agent Skills | OpenAI 官方 Codex Agent Skills 使用指南，覆盖 CLI、IDE 扩展和 Codex app | - | [OpenAI Developers](https://developers.openai.com/codex/skills/) |
 | github/awesome-copilot | GitHub 官方 Copilot 资源合集 | - | [GitHub](https://github.com/github/awesome-copilot) |
 | Agent Skills 索引 | 社区 Skills 搜索引擎 | - | [agent-skills.md](https://agent-skills.md/) |
 | Skills 排行榜 | 开放 Agent Skills 生态目录 | - | [skills.sh](https://skills.sh) |
@@ -160,6 +164,7 @@ git clone https://github.com/example/my-skill.git ~/.cursor/skills/my-skill
 |------|------|-------|------|
 | awesome-cursorrules | ⭐ 最全面的 Cursor Rules 合集 | 39.8k | [GitHub](https://github.com/PatrickJS/awesome-cursorrules) |
 | everything-claude-code | ⭐ Claude Code 配置大全（agents/skills/hooks） | 185.6k | [GitHub](https://github.com/affaan-m/everything-claude-code) |
+| heilcheng/awesome-agent-skills | ⭐ 社区维护的 Agent Skills 导航，聚焦工程团队实际使用的真实 Skills | 5.3k | [GitHub](https://github.com/heilcheng/awesome-agent-skills) |
 | awesome-claude-skills | ⭐ Composio 维护的 Claude Skills 合集 | 62.7k | [GitHub](https://github.com/ComposioHQ/awesome-claude-skills) |
 | kasetto | 用 Rust 编写的极速 AI 技能管理器 | — | [GitHub](https://github.com/pivoshenko/kasetto) |
 | awesome-claude-code | ⭐ Claude Code skills/hooks/插件合集 | 45.3k | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) |

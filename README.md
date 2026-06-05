@@ -86,12 +86,16 @@ Skills work across multiple platforms:
 
 - [Agent Skills Open Standard](https://skill.md/) - Official Agent Skills specification.
 - [Agent Skills Specification](https://agentskills.io/specification) - SKILL.md format specification.
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Official Agent Skills specification and documentation repository.
 - [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic Agent Skills repository.
 - [GitHub Docs: About agent skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills) - GitHub official overview of agent skills, supported hosts, and `gh skill`.
 - [GitHub Docs: Adding agent skills for GitHub Copilot](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/cloud-agent/add-skills) - GitHub official guide for creating, installing, and publishing agent skills.
+- [GitHub CLI: gh skill](https://cli.github.com/manual/gh_skill) - Official GitHub CLI commands for discovering, installing, updating, and publishing Agent Skills.
+- [VS Code Docs: Use Agent Skills in VS Code](https://code.visualstudio.com/docs/copilot/customization/agent-skills) - Official VS Code guide for using Agent Skills with GitHub Copilot.
 - [vercel-labs/skills](https://github.com/vercel-labs/add-skill) - Vercel official Skills CLI tool.
 - [microsoft/skills](https://github.com/microsoft/agent-skills) - Microsoft official 131 Azure SDK Skills.
 - [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official Azure skills plugin with MCP server configurations and 20 curated Azure skills.
+- [OpenAI Codex: Agent Skills](https://developers.openai.com/codex/skills/) - OpenAI official guide for using Agent Skills in Codex CLI, IDE extension, and Codex app.
 - [GitHub Awesome Copilot](https://github.com/github/awesome-copilot) - Official Copilot resources collection.
 - [Agent Skills Index](https://agent-skills.md/) - Community Skills search engine.
 - [Skills Leaderboard](https://skills.sh) - Open Agent Skills ecosystem directory.
@@ -102,6 +106,7 @@ Skills work across multiple platforms:
 
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - The most comprehensive Cursor Rules collection.
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configs (agents/skills/hooks).
+- [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Community-curated Agent Skills directory focused on real-world skills used by engineering teams.
 - [kasetto](https://github.com/pivoshenko/kasetto) - An extremely fast AI skills manager, written in Rust.
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Claude Skills collection by Composio.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Claude Code skills/hooks/plugins collection.
